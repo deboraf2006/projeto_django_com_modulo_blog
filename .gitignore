@@ -1,0 +1,9 @@
+#Ignorando arquivos com informações pessoasis para não irem ao github
+.env
+db.sqlite3
+mysite_data.json
+dados.json
+my_env/
+__pycache__/
+*.pyc
+.vscode/
